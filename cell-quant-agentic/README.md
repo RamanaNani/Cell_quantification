@@ -1,4 +1,4 @@
-# Cell Quantification Pipeline
+py# Cell Quantification Pipeline
 
 An agent-based pipeline for analyzing and quantifying cells in microscopy images.
 
